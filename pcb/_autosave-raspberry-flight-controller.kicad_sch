@@ -17981,7 +17981,7 @@
 	)
 	(symbol
 		(lib_id "Sensor_Motion:ISM330DHCX")
-		(at 233.68 287.02 0)
+		(at 203.2 292.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17990,7 +17990,7 @@
 		(fields_autoplaced yes)
 		(uuid "7a61c7dc-3919-4de6-9693-1a947cf1a4d2")
 		(property "Reference" "U10"
-			(at 235.8233 304.8 0)
+			(at 205.3433 309.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17999,7 +17999,7 @@
 			)
 		)
 		(property "Value" "ISM330DHCX"
-			(at 235.8233 307.34 0)
+			(at 205.3433 312.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18008,7 +18008,7 @@
 			)
 		)
 		(property "Footprint" "Package_LGA:LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y"
-			(at 234.188 289.052 0)
+			(at 203.708 294.132 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18017,7 +18017,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/ism330dhcx.pdf"
-			(at 234.442 288.798 0)
+			(at 203.962 293.878 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18026,7 +18026,7 @@
 			)
 		)
 		(property "Description" "iNEMO inertial module with embedded Machine Learning Core: always-on 3D accelerometer and 3D gyroscope with digital output for industrial applications, LGA-14"
-			(at 234.95 281.94 0)
+			(at 204.47 287.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
